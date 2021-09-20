@@ -14,6 +14,7 @@ Implementar una aplicación que permita gestionar una lista de tareas pendientes
    
 
 De cada tarea, el usuario conoce:
+
     * Nombre
     * Descripción
     * Fecha creación (no debe ser solicitada al usuario)
